@@ -40,5 +40,5 @@ navigation:
     link: /research.html
   - title: 论文 Publications
     link: /publications.html
-title: 简介 Introduction
+  - title: 简介 Introduction
     link: /
